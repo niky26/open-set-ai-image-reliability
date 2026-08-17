@@ -1,0 +1,12 @@
+{
+  "optimal_temperature": 1.2408854103475755,
+  "accuracy": 0.957136733819117,
+  "auroc": 0.9921470227885322,
+  "ece": 0.03162034362964304,
+  "avg_confidence": 0.9764433679473318,
+  "avg_conf_correct": 0.982792242177714,
+  "avg_conf_wrong": 0.834673006382895,
+  "high_conf_total": 2165,
+  "high_conf_errors": 41,
+  "high_conf_error_rate": 0.018937644341801386
+}

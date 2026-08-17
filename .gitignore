@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+~$*
+
+# Datasets, caches, and temporary outputs
+data/
+datasets/
+cache/
+.cache/
+hf_cache/
+kagglehub/
+tmp/
+
+# Models and checkpoints
+models/
+checkpoints/
+*.keras
+*.h5
+*.ckpt
+*.weights.h5
+
+# Local experiment output directories
+experiment_2_logo/
+defactify_external_eval/
+external_reliability_run/
+
+# Archives and logs
+*.zip
+*.tar
+*.tar.gz
+*.log
+

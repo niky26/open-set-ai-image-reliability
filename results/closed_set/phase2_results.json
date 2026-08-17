@@ -1,0 +1,11 @@
+{
+  "accuracy": 0.957136733819117,
+  "auroc": 0.9921470227885323,
+  "ece": 0.03436360659977551,
+  "avg_confidence": 0.982050359249115,
+  "avg_conf_correct": 0.9874037504196167,
+  "avg_conf_wrong": 0.8625070452690125,
+  "high_conf_total": 2205,
+  "high_conf_errors": 52,
+  "high_conf_error_rate": 0.023582766439909298
+}

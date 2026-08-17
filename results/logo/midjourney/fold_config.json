@@ -1,0 +1,15 @@
+{
+  "heldout_generator": "Midjourney",
+  "seen_generators": [
+    "stable_diffusion_v_1_5",
+    "glide",
+    "wukong",
+    "BigGAN",
+    "VQDM",
+    "ADM"
+  ],
+  "balance_test_set": true,
+  "seed": 42,
+  "img_size": 224,
+  "batch_size": 32
+}
