@@ -156,14 +156,3 @@ Absolute ECE values from unlike estimators should not be pooled. Before/after co
 ## Cybersecurity interpretation
 
 The detector is evaluated as a triage signal, not proof of image provenance. Under the external sample, 267 of 500 real images were flagged as AI-generated. Accordingly, deployment should include human review, reversible actions, provenance checks, logging, and drift monitoring rather than autonomous denial.
-
-## Committing to GitHub
-
-```bash
-git init
-git add .
-git commit -m "Add thesis reproducibility package"
-git branch -M main
-git remote add origin <YOUR_GITHUB_REPOSITORY_URL>
-git push -u origin main
-```
